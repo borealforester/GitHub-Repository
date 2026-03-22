@@ -48,4 +48,13 @@ If you enjoy these deep dives into the digital skeleton of our world, follow my 
 *   **Substack:** [Your Substack Link Here]
 *   **Social Media:** [Your Profile Link Here]
 
+---
+
+## ✍️ About the Author: R. Brown
+**R. Brown** is an independent researcher and investigative storyteller focusing on the "lost lineages" of modern technology. From the cryptographic origins of Bitcoin to the ancient mechanical precursors of the smartphone, Brown’s work bridges the gap between historical anomalies and the digital systems that govern our lives today.
+
+*This archive is a living project, with new investigations added monthly as the digital skeleton of our world continues to be unearthed.*
+
+---
+
 *© 2024 R. Brown. All rights reserved.*
