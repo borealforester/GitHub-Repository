@@ -10,13 +10,14 @@ Welcome to the official repository of **R. Brown**. This archive explores the hi
 *   [The Gears of Heaven](#3-the-gears-of-heaven)
 *   [The Root of All Evil](#4-the-root-of-all-evil)
 
+## 📚 The Library
 ---
 
 ### The Bones of Numbers
 *The Bones of Numbers exposes the forbidden 45,000-year skeleton of civilization—how one ancient tally scratch mutated through Indian zero, Baghdad algorithms, cathedral clocks, Jacquard punched cards, Babbage & Lovelace's Analytical Engine, and silicon into the living digital bone that secretly controls every empire, machine, economy, and mind on Earth.*
 
 📖 **[Read the Book](The%20Bones%20of%20Numbers.md)** | 🎙️ **[Listen to the Podcast](The%20Bones%20of%20Numbers.m4a)** | 📄 **[Download PDF](The%20Bones%20of%20Numbers.pdf)**[↑ Back to Top](#top)
-## 📚 The Library
+
 
 ---
 
@@ -24,7 +25,6 @@ Welcome to the official repository of **R. Brown**. This archive explores the hi
 *The Bitcoin Inheritance unveils the explosive hidden history of how the NSA allegedly killed David Chaum's perfect privacy eCash in 1998, scattering its cryptographic DNA to Cypherpunks who mutated it into Satoshi Nakamoto's public-ledger Bitcoin—the ultimate surveillance tool disguised as the revolution that ate itself.*
 
 📖 **[Read the Book](The%20Bitcoin%20Inheritance.md)** | 🎙️ **[Listen to the Podcast](The%20Bitcoin%20Inheritance.m4a)** | 📄 **[Download PDF](The%20Bitcoin%20Inheritance.pdf)**[↑ Back to Top](#top)
-
 
 ---
 
