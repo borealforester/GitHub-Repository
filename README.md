@@ -5,10 +5,10 @@
 Welcome to the official repository of **BrownTree**. This archive explores the hidden connective tissue between ancient technology, ancient knowledge, and the invisible architecture of our modern digital world.
 
 ## 📖 Table of Contents
-*   [The Bones of Numbers](the-bones-of-numbers)
-*   [The Bitcoin Inheritance](the-bitcoin-inheritance)
-*   [The Gears of Heaven](the-gears-of-heaven)
-*   [The Root of All Evil](the-root-of-all-evil)
+*   [The Bones of Numbers](#the-bones-of-numbers)
+*   [The Bitcoin Inheritance](#the-bitcoin-inheritance)
+*   [The Gears of Heaven](#the-gears-of-heaven)
+*   [The Root of All Evil](#the-root-of-all-evil)
 
 ## 📚 The Library
 ---
