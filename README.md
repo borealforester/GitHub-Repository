@@ -16,7 +16,7 @@ Welcome to the official repository of **R. Brown**. This archive explores the hi
 ### The Bones of Numbers
 *The Bones of Numbers exposes the forbidden 45,000-year skeleton of civilization—how one ancient tally scratch mutated through Indian zero, Baghdad algorithms, cathedral clocks, Jacquard punched cards, Babbage & Lovelace's Analytical Engine, and silicon into the living digital bone that secretly controls every empire, machine, economy, and mind on Earth.*
 
-📖 **[Read the Book](The%20Bones%20of%20Numbers.md)** | 🎙️ **[Listen to the Podcast](The%20Bones%20of%20Numbers.m4a)** | 📄 **[Download PDF](The%20Bones%20of%20Numbers.pdf)** | ** [↑ Back to Top](#top)
+📖 **[Read the Book](The%20Bones%20of%20Numbers.md)** | 🎙️ **[Listen to the Podcast](The%20Bones%20of%20Numbers.m4a)** | 📄 **[Download PDF](The%20Bones%20of%20Numbers.pdf)** |  [↑ Back to Top](#top)
 
 
 ---
