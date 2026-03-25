@@ -4,12 +4,6 @@
 
 Welcome to the official repository of **BrownTree**. This archive explores the hidden connective tissue between ancient technology, ancient knowledge, and the invisible architecture of our modern digital world.
 
-## 📖 Table of Contents
-*   [The Bones of Numbers](#the-bones-of-numbers)
-*   [The Bitcoin Inheritance](#the-bitcoin-inheritance)
-*   [The Gears of Heaven](#the-gears-of-heaven)
-*   [The Root of All Evil](#the-root-of-all-evil)
-
 ## 📚 The Library
 ---
 
@@ -42,14 +36,6 @@ Welcome to the official repository of **BrownTree**. This archive explores the h
 
 ---
 
-## 📬 Stay Connected
-If you enjoy these deep dives into the digital skeleton of our world, follow my work and updates here:
-
-*   **Substack:** [Your Substack Link Here]
-*   **Social Media:** [Your Profile Link Here]
-
----
-
 ## ✍️ About the Author: R. Brown
 **R. Brown** is an independent researcher and investigative storyteller focusing on the "lost lineages" of modern technology. From the cryptographic origins of Bitcoin to the ancient mechanical precursors of the smartphone, R. Brown’s work bridges the gap between historical anomalies and the digital systems that govern our lives today.
 
@@ -59,4 +45,4 @@ If you enjoy these deep dives into the digital skeleton of our world, follow my 
 [![Hits](https://hits.sh/github.com/borealforester/GitHub Repository.svg)](https://hits.sh/github.com/borealforester/GitHub Repository/)
 
 ---
-*© 2024 R. Brown. All rights reserved.*
+*© 2024 BrownTree. All rights reserved.*
